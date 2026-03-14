@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/net2share/nethopper/internal/cmd"
+	"github.com/baghbaghooo/nethopper/internal/cmd"
 )
 
 var (
