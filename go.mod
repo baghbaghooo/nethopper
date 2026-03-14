@@ -1,4 +1,4 @@
-module github.com/net2share/nethopper
+module github.com/baghbaghooo/nethopper
 
 go 1.24.0
 
