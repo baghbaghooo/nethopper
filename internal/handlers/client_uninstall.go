@@ -5,7 +5,7 @@ import (
 	"os"
 
 	"github.com/net2share/nethopper/internal/actions"
-	"github.com/net2share/nethopper/internal/binary"
+	"github.com/baghbaghooo/nethopper/internal/binary"
 	"github.com/net2share/nethopper/internal/config"
 )
 
