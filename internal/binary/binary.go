@@ -43,8 +43,9 @@ func NewServerManager() *binman.Manager {
 		binman.WithSystemPaths([]string{"/usr/local/bin", "/usr/bin"}),
 	)
 }
-
 // NewClientManager creates a binman manager for client (user) installation.
-func NewClientManager(binDir string) *binman.Manager {
-	return binman.NewManager(binDir)
+func NewClientManager() *binman.Manager {
+	return binman.NewManager("/usr/local/bin",
+		binman.WithSystemPaths([]string{"/usr/local/bin", "/usr/bin"}),
+	)
 }
