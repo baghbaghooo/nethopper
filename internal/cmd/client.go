@@ -3,7 +3,7 @@ package cmd
 import (
 	"github.com/net2share/nethopper/internal/actions"
 	"github.com/baghbaghooo/nethopper/internal/handlers"
-	"github.com/net2share/nethopper/internal/menu"
+	"github.com/baghbaghooo/nethopper/internal/menu"
 	"github.com/spf13/cobra"
 )
 
