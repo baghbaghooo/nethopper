@@ -5,7 +5,7 @@ import (
 	"fmt"
 
 	"github.com/net2share/nethopper/internal/actions"
-	"github.com/net2share/nethopper/internal/binary"
+	"github.com/baghbaghooo/nethopper/internal/binary"
 	"github.com/net2share/nethopper/internal/config"
 	"github.com/net2share/nethopper/internal/network"
 	"github.com/net2share/nethopper/internal/service"
