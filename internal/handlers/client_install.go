@@ -6,7 +6,7 @@ import (
 	"runtime"
 
 	"github.com/net2share/nethopper/internal/actions"
-	"github.com/net2share/nethopper/internal/binary"
+	"github.com/net2share/baghbaghooo/internal/binary"
 	"github.com/net2share/nethopper/internal/config"
 )
 
